@@ -27,4 +27,4 @@ Sou um profissional de TI com 19+ anos de experiência, com foco em desenvolvime
 ## Contato
 
 *      Email: marcospheitosa@hotmail.com
-*      LinkedIn: [https://www.linkedin.com/in/marcosfeitosasouza/](https://www.linkedin.com/in/marcosfeitosasouza/)
+*      LinkedIn: https://www.linkedin.com/in/marcosfeitosasouza/
