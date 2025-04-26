@@ -1,5 +1,5 @@
-# Desenvolvimento Web
-## Portfólio de Desenvolvimento Web
+# Desenvolvimento
+## Portfólio de Desenvolvimento em várias linguagens de programação
 ## Este repositório contém meus projetos de desenvolvimento web, demonstrando minhas habilidades em HTML5, CSS3, JavaScript e frameworks relacionados.
 
 ## Site de Exibição de Produtos
