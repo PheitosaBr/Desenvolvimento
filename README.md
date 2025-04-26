@@ -1,6 +1,6 @@
 # Desenvolvimento Web
-# Portfólio de Desenvolvimento Web
-# Este repositório contém meus projetos de desenvolvimento web, demonstrando minhas habilidades em HTML5, CSS3, JavaScript e frameworks relacionados.
+## Portfólio de Desenvolvimento Web
+## Este repositório contém meus projetos de desenvolvimento web, demonstrando minhas habilidades em HTML5, CSS3, JavaScript e frameworks relacionados.
 
 ## Site de Exibição de Produtos
 *      Descrição: Site para apresentar produtos de uma loja online, com página principal e páginas de produtos detalhadas.
