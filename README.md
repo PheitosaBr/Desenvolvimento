@@ -10,7 +10,7 @@
 ## Site de Exibição de Produtos
 *      Descrição: Dois projetos em HTML e CSS3 para treino e atender aos exercícios 1 e 2 do curso de Lógica Computacional no SENAC.
 *      Tecnologias: HTML5, CSS3, JavaScript.
-*     https://github.com/PheitosaBr/Desenvolvimento/releases/tag/HTML5_Logica_Computacional
+*      https://github.com/PheitosaBr/Desenvolvimento/releases/tag/HTML5_Logica_Computacional
 
 ## Sobre Mim
 
