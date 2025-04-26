@@ -14,7 +14,7 @@
 
 ## Sobre Mim
 
-Sou um profissional de TI com 19+ anos de experiência, com foco em desenvolvimento front-end. Tenho experiência em criar interfaces de usuário responsivas e amigáveis, utilizando tecnologias modernas.
+19+ anos em TI: suporte técnico, infraestrutura (Windows Server, redes, Dell/Cisco/HP), automação bancária e comercial além de desenvolvimento web (HTML/CSS/JS), Python, C e C++ por exemplo, consigo atuar no backend, frontend ou FullStack. Apaixonado por resolver problemas e otimizar sistemas e processos. Veja meus repositórios!
 
 ## Habilidades
 
